@@ -1,0 +1,15 @@
+.onesignal-bell-launcher-button {
+  background-color: #222 !important;
+  border-radius: 50% !important;
+  transition: 0.3s ease;
+}
+
+.onesignal-bell-launcher-button:hover {
+  background-color: #333 !important;
+}
+
+.onesignal-popover {
+  background-color: #111 !important;
+  color: #fff !important;
+  border-radius: 11px !important;
+}
